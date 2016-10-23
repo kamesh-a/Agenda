@@ -1,0 +1,16 @@
+Conditional or Decision making
+	- if
+	- switch
+	- ternary operator
+
+Looping statements
+	- for
+	- while
+	- do while
+
+
+Read documents :
+	- http://www.ee.surrey.ac.uk/Projects/CAL/digital-logic/gatesfunc/
+	- https://www.tutorialspoint.com/java/java_loop_control.htm
+	- https://www.tutorialspoint.com/java/java_basic_operators.htm
+	- https://www.tutorialspoint.com/java/java_basic_datatypes.htm
